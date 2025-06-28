@@ -18,7 +18,12 @@ public class Nested {
                 System.out.println("The Greatest NUmber is :"+ c);
             }
         } else {
-            System.out.println("The Greatest Number is "+ b);
+            if (b > c) {
+                System.out.println("The Greatest Number is " + b);
+            }
+            else {
+                System.out.println("The Greatest Number is "+ c);
+            }
         }
     }
 }
