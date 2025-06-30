@@ -1,4 +1,4 @@
-# 🛒 Daily Mart – Console-Based Cart System
+# 🛒 [Daily Mart – Console-Based Cart System](Cart_System.java)
 
 Welcome to **Daily Mart**, a simple Java console-based shopping cart application that simulates a grocery store experience. Users can select products by ID, input quantities, and view a final bill at checkout.
 
