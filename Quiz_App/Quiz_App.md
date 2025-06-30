@@ -51,7 +51,7 @@ This app asks the user a set of 5 questions, evaluates their answers, and gives 
 
 ## 👨‍💻 Author
 
-**Pranav Khandelwal**  
+[**Pranav Khandelwal**](https://pranavk.tech)  
 _Java Developer | Enthusiast in building CLI tools and real-world problem solvers_
 
 
