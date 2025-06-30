@@ -33,5 +33,5 @@ A console-based quiz application that evaluates user answers and scores them:
 
 ## 👨‍💻 Author
 
-**Pranav Khandelwal**  
+**Pranav Khandelwal** [https://pranavk.tech] 
 Exploring Java through hands-on programming and CLI-based applications.
