@@ -1,9 +1,8 @@
-# ☕ Java Programs Repository
+# ☕ Java Programs
 
 ![Java](https://img.shields.io/badge/Language-Java-blue?logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![License](https://img.shields.io/badge/License-Unlicense-yellow)
 
 Welcome to my collection of basic and intermediate **Java programs**, organized module-wise for clarity and learning.
 
