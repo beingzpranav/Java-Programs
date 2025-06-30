@@ -30,7 +30,7 @@ A console-based quiz application that evaluates user answers and scores them:
 - [`Quiz_App.md`](Quiz_App/Quiz_App.md)
 ---
 
-### 2. 🛒 Daily Mart
+### 3. 🛒 Daily Mart
 
 A console-based shopping cart application that simulates a grocery store experience:
 
