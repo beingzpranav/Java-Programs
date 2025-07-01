@@ -39,6 +39,15 @@ A console-based shopping cart application that simulates a grocery store experie
   
 ---
 
+### 4. 🧮 Console-Based Calculator
+
+ A console-based Java Calculator that performs basic math operations interactively:
+
+ - [`Calculator.java`](Calculator/Calculator.java)
+ - [`Calculator.md`](Calculator/Calculator.md)
+
+---
+
 ## 👨‍💻 Author
 
 [**Pranav Khandelwal**](https://pranavk.tech) 
