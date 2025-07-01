@@ -28,7 +28,15 @@ A console-based quiz application that evaluates user answers and scores them:
 
 - [`Quiz_App.java`](Quiz_App/Quiz_App.java)
 - [`Quiz_App.md`](Quiz_App/Quiz_App.md)
+---
 
+### 3. 🛒 Daily Mart
+
+A console-based shopping cart application that simulates a grocery store experience:
+
+- [`Cart_System.java`](Cart_System/Cart_System.java)
+- [`Cart_System.md`](Cart_System/Cart_System.md)
+  
 ---
 
 ## 👨‍💻 Author
