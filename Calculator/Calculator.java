@@ -39,7 +39,8 @@ public class Calculator {
                 }
                 default -> System.out.println("Invalid Opreation");
             }
-            System.out.println("Enter 1 to continue or 0 to Exit");
+            System.out.println("-------------------------------------------");
+            System.out.print("Enter 1 to continue or 0 to Exit: ");
             input = in.nextInt();
         }
         System.out.println("Thank you for using Calculator");
@@ -57,6 +58,3 @@ public class Calculator {
             return num1/num2;
     }
 }
-
-
-
