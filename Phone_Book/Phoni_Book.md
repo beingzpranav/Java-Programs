@@ -32,29 +32,8 @@ The program runs in a loop, and the user can choose to continue or exit after ea
 
 ## ✅ Sample Output
 
-```
-Welcome to the PhoniBook
-This allows you to Store Contacts and Modify them
-Please Select from the following Opreations:
+![image](https://github.com/user-attachments/assets/8469d40b-9310-4310-a4db-b2fdb23ad6fc)
 
-Adding New Contacts
-
-Searching Number
-
-Deleting the Contacts
-
-Updating the Contacts
-
-Showing all the Contacts
-
-Enter the Opreation you want to Use: 1
-Enter the Total Number of Contact you want to input: 2
-Enter the Name of the Contact 1 : Riya
-Enter the Contact Number of the Riya : 9876543210
-Enter the Name of the Contact 2 : Ravi
-Enter the Contact Number of the Ravi : 9123456780
-All the Details have been Saved Successfully!
-```
 
 ---
 
