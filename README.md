@@ -52,8 +52,8 @@ A console-based shopping cart application that simulates a grocery store experie
 
  PhoniBook is a Java-based console application that mimics a simple contact management system. Users can add, search, delete, update, and view contacts in a terminal interface:
 
- -[`Phoni_Book.java`](Phone_Book/Phoni_Book.java)
- -[`Phoni_Book.md`](Phone_Book/Phoni_Book.md)
+ - [`Phoni_Book.java`](Phone_Book/Phoni_Book.java)
+ - [`Phoni_Book.md`](Phone_Book/Phoni_Book.md)
 
 ---
 
